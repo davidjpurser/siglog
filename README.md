@@ -1,3 +1,6 @@
+This project is now archived. The new coordinator took over from February 2024, [see the new repository here](https://github.com/l0e42/siglog/).
+
+
 # SIGLOG Monthly Newsletter Generator
 
 - Given a newsletter in the format described below, in a file called `209-anything.txt`
